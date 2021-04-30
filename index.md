@@ -4,11 +4,12 @@
         <tr>
             <td>
                 <!--左侧内容-->
-                ![my_img](https://orienttraveller.github.io/sfr.jpg)
+                <img src="https://orienttraveller.github.io/sfr.jpg"  alt="my_img" />
             </td>
             <td>
-                ## a
-                ## b
+                <p>y</p>
+                <p>x</p>
+                <p>z</p>
             </td>
         </tr>
     </table>

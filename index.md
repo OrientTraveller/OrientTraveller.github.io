@@ -1,17 +1,25 @@
-# 个人信息
-<html>
-    <table style="margin-left: auto; margin-right: auto;">
-        <tr>
-            <td>
-                <!--左侧内容-->
-                <img src="https://orienttraveller.github.io/sfr.jpg"  alt="my_img" />
-            </td>
-            <td>
-                <p>y</p>
-                <p>x</p>
-                <p>z</p>
-            </td>
-        </tr>
-    </table>
-</html>
-# 教育经历
+# About Me
+<img class="profile-picture" src=src="https://orienttraveller.github.io/sfr.jpg">
+- **test**
+- **test**
+- **test**
+
+
+# Research Interest
+- **First Place**, VISDA2020 Challenge, ECCV22020
+- **First Place**, 2020 iQIYI iCartoonFace Challenge, IJCAI-PRICAI 2020
+- **Third Place**, AICity Challenge 2020, CVPR2020 Workshops
+- **Second Price (300,000¥ Bonus)**, ReID Challenge, NAIC2020
+- **Second Price (500,000¥ Bonus)**, ReID Challenge, NAIC2019
+- **China National Scholarship**, P.R.China
+- **HuaWei Scholarship**
+- **Outstanding Graduates**, Zhejiang Province, China
+- **Chunhui Award (Blue Ribbon)**,College of CSE, Zhejiang University
+- **Outstanding Student Leaders**, Zhejiang University
+- **Merit Student**,Zhejiang University
+- **Excellent Student Awards**, Zhejiang University
+- **First Prize in Advanced Mathematics Competition**, Zhejiang Province, China
+# Educational experience 
+# Awards and Honors
+
+

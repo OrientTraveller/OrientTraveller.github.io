@@ -1,4 +1,3 @@
-# SunFeiran个人主页
 # About Me
 <img class="profile-picture" src="https://orienttraveller.github.io/sfr.jpg">
 - **test1**

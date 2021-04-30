@@ -1,5 +1,5 @@
 # About Me
-<img class="profile-picture" src=src="https://orienttraveller.github.io/sfr.jpg">
+<img class="profile-picture" src="https://orienttraveller.github.io/sfr.jpg">
 - **test**
 - **test**
 - **test**

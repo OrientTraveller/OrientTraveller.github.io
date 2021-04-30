@@ -1,4 +1,6 @@
+<head>
 <title>Sunfeiran 个人主页</title>
+</head>  
 
 # About Me
 <img class="profile-picture" src="https://orienttraveller.github.io/sfr.jpg">

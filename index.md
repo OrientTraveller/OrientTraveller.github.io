@@ -1,11 +1,11 @@
-# About Me
+# 关于我
 <img class="profile-picture" src="https://orienttraveller.github.io/sfr3.jpg">
 - **test**
 - **test**
 - **test**
 
 
-# Research Interest
+# 研究方向
 - **First Place**, VISDA2020 Challenge, ECCV22020
 - **First Place**, 2020 iQIYI iCartoonFace Challenge, IJCAI-PRICAI 2020
 - **Third Place**, AICity Challenge 2020, CVPR2020 Workshops
@@ -16,12 +16,9 @@
 - **Outstanding Graduates**, Zhejiang Province, China
 - **Chunhui Award (Blue Ribbon)**,College of CSE, Zhejiang University
 - **Outstanding Student Leaders**, Zhejiang University
-- **Merit Student**,Zhejiang University
-- **Excellent Student Awards**, Zhejiang University
-- **First Prize in Advanced Mathematics Competition**, Zhejiang Province, China
 
-# Educational experience 
+# 教育经历
 
-# Awards and Honors
+# 个人荣誉与获奖情况
 
 

@@ -1,6 +1,3 @@
-# "hello world" 
-
-### "hello world" 
-### "hello world" 
-### "hello world" 
-### "hello world" 
+# 个人主页
+## 个人信息
+## 教育经历

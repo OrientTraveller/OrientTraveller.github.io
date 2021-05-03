@@ -1,7 +1,7 @@
 # 关于我
 <img class="profile-picture" src="https://orienttraveller.github.io/sfr3.jpg">
 - [CSDN]https://blog.csdn.net/qq_43270828
-- [GitHun]https://github.com/OrientTraveller
+- [GitHub]https://github.com/OrientTraveller
 
 # 教育经历
 - 东北大学，沈阳，中国      2017.08.26-2021.07.01

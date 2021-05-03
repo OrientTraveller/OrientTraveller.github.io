@@ -20,33 +20,14 @@
 
 
 # 项目经历
-<table>
-  <tr>
-    <th align="middle" style="text-overflow:ellipsis;word-break:keep-all; white-space:nowrap;">项目类型</th>
-    <th align="middle" style="text-overflow:ellipsis;word-break:keep-all; white-space:nowrap;">项目名称</th>
-    <th align="middle" style="text-overflow:ellipsis;word-break:keep-all; white-space:nowrap;">团队角色</th>
-  </tr>
-  <tr>
-    <td align="middle" style="text-overflow:ellipsis;word-break:keep-all; white-space:nowrap;">实验室科研项目</td>
-    <td align="middle" style="text-overflow:ellipsis;word-break:keep-all; white-space:nowrap;">高温金属表面检测</td>
-    <td align="middle" style="text-overflow:ellipsis;word-break:keep-all; white-space:nowrap;">参与者，负责数据处理与预研实验</td>
-  </tr>
-  <tr>
-    <td align="middle" style="text-overflow:ellipsis;word-break:keep-all; white-space:nowrap;">互联网加创新项目</td>
-    <td align="middle" style="text-overflow:ellipsis;word-break:keep-all; white-space:nowrap;">私人订制旅行日程服务APP</td>
-    <td align="middle" style="text-overflow:ellipsis;word-break:keep-all; white-space:nowrap;">组织者，负责带领小组进行创新想法的完善与商业计划书撰写</td>
-  </tr>
-  <tr>
-    <td align="middle" style="text-overflow:ellipsis;word-break:keep-all; white-space:nowrap;">企业实训项目</td>
-    <td align="middle" style="text-overflow:ellipsis;word-break:keep-all; white-space:nowrap;">人脸表情识别</td>
-    <td align="middle" style="text-overflow:ellipsis;word-break:keep-all; white-space:nowrap;">组织者，负责带领小组进行表情识别传统机器学习与深度学习方向研究成果的调研与复现</td>
-  </tr>
-  <tr>
-    <td align="middle" style="text-overflow:ellipsis;word-break:keep-all; white-space:nowrap;">实验室科研项目</td>
-    <td align="middle" style="text-overflow:ellipsis;word-break:keep-all; white-space:nowrap;">基于局部对齐机制的行人重识别算法的实现与优化</td>
-    <td align="middle" style="text-overflow:ellipsis;word-break:keep-all; white-space:nowrap;">组织者，负责带领小组进行行人重识别“基于区域”方向研究成果的调研与复现</td>
-  </tr>
-</table>
+1. 实验室科研项目-高温金属表面检测
+团队角色：参与者，负责数据处理与预研实验
+2. 互联网加创新项目-私人订制旅行日程服务APP
+团队角色：组织者，负责带领小组进行创新想法的完善与商业计划书撰写
+3. 企业实训项目-人脸表情识别
+团队角色：组织者，负责带领小组进行表情识别传统机器学习与深度学习方向研究成果的调研与复现</td>
+4. 实验室科研项目-基于局部对齐机制的行人重识别算法的研究与实现
+团队角色：组织者，负责带领小组进行行人重识别“基于区域”方向研究成果的调研与复现
 
 # 实习经历
 - **2021.03.09-2021.06.09  网易有道信息技术（北京）有限公司，“计算机视觉算法实习生”**

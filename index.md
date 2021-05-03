@@ -1,23 +1,11 @@
 # 关于我
 <img class="profile-picture" src="https://orienttraveller.github.io/sfr3.jpg">
-- **test**
-- **test**
-- **test**
-
-
-# 研究方向
-- **First Place**, VISDA2020 Challenge, ECCV22020
-- **First Place**, 2020 iQIYI iCartoonFace Challenge, IJCAI-PRICAI 2020
-- **Third Place**, AICity Challenge 2020, CVPR2020 Workshops
-- **Second Price (300,000¥ Bonus)**, ReID Challenge, NAIC2020
-- **Second Price (500,000¥ Bonus)**, ReID Challenge, NAIC2019
-- **China National Scholarship**, P.R.China
-- **HuaWei Scholarship**
-- **Outstanding Graduates**, Zhejiang Province, China
-- **Chunhui Award (Blue Ribbon)**,College of CSE, Zhejiang University
-- **Outstanding Student Leaders**, Zhejiang University
+- [CSDN]https://blog.csdn.net/qq_43270828
+- [GitHun]https://github.com/OrientTraveller
 
 # 教育经历
+- 东北大学，沈阳，中国      2017.08.26-2021.07.01
+- 华中科技大学，武汉，中国  2021.09.01-2024.07.01
 
 # 个人荣誉
 

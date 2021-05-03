@@ -22,29 +22,29 @@
 # 项目经历
 <table>
   <tr>
-    <th>项目类型</th>
-    <th>项目名称</th>
-    <th>团队角色</th>
+    <th align="middle" style="text-overflow:ellipsis;word-break:keep-all; white-space:nowrap;">项目类型</th>
+    <th align="middle" style="text-overflow:ellipsis;word-break:keep-all; white-space:nowrap;">项目名称</th>
+    <th align="middle" style="text-overflow:ellipsis;word-break:keep-all; white-space:nowrap;">团队角色</th>
   </tr>
   <tr>
-    <td>实验室科研项目</td>
-    <td>高温金属表面检测</td>
-    <td>参与者，负责数据处理与预研实验</td>
+    <td align="middle" style="text-overflow:ellipsis;word-break:keep-all; white-space:nowrap;">实验室科研项目</td>
+    <td align="middle" style="text-overflow:ellipsis;word-break:keep-all; white-space:nowrap;">高温金属表面检测</td>
+    <td align="middle" style="text-overflow:ellipsis;word-break:keep-all; white-space:nowrap;">参与者，负责数据处理与预研实验</td>
   </tr>
   <tr>
-    <td>互联网加创新项目</td>
-    <td>私人订制旅行日程服务APP</td>
-    <td>组织者，负责带领小组进行创新想法的完善与商业计划书撰写</td>
+    <td align="middle" style="text-overflow:ellipsis;word-break:keep-all; white-space:nowrap;">互联网加创新项目</td>
+    <td align="middle" style="text-overflow:ellipsis;word-break:keep-all; white-space:nowrap;">私人订制旅行日程服务APP</td>
+    <td align="middle" style="text-overflow:ellipsis;word-break:keep-all; white-space:nowrap;">组织者，负责带领小组进行创新想法的完善与商业计划书撰写</td>
   </tr>
   <tr>
-    <td>企业实训项目</td>
-    <td>人脸表情识别</td>
-    <td>组织者，负责带领小组进行表情识别传统机器学习与深度学习方向研究成果的调研与复现</td>
+    <td align="middle" style="text-overflow:ellipsis;word-break:keep-all; white-space:nowrap;">企业实训项目</td>
+    <td align="middle" style="text-overflow:ellipsis;word-break:keep-all; white-space:nowrap;">人脸表情识别</td>
+    <td align="middle" style="text-overflow:ellipsis;word-break:keep-all; white-space:nowrap;">组织者，负责带领小组进行表情识别传统机器学习与深度学习方向研究成果的调研与复现</td>
   </tr>
   <tr>
-    <td>实验室科研项目</td>
-    <td>基于局部对齐机制的行人重识别算法的实现与优化</td>
-    <td>组织者，负责带领小组进行行人重识别“基于区域”方向研究成果的调研与复现</td>
+    <td align="middle" style="text-overflow:ellipsis;word-break:keep-all; white-space:nowrap;">实验室科研项目</td>
+    <td align="middle" style="text-overflow:ellipsis;word-break:keep-all; white-space:nowrap;">基于局部对齐机制的行人重识别算法的实现与优化</td>
+    <td align="middle" style="text-overflow:ellipsis;word-break:keep-all; white-space:nowrap;">组织者，负责带领小组进行行人重识别“基于区域”方向研究成果的调研与复现</td>
   </tr>
 </table>
 

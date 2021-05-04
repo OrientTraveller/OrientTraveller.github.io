@@ -36,7 +36,7 @@
 - 发明专利：**《基于像素光栅和计算机视觉的物体表面微尺度测量方法》**，公布号CN111006599A
 
 <br><br/><br><br/><br><br/>
-<span id="busuanzi_container_site_pv", style="text-align: center;display:block;">
+<span id="busuanzi_container_site_pv" style="text-align: center;display:block;">
     PV:<span id="busuanzi_value_site_pv"></span>
 </span>
 <center>Last Update 2021.05.04</center>

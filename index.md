@@ -36,7 +36,7 @@
 
 
 <br><br/><br><br/><br><br/>
-<span id="busuanzi_container_site_pv">
-    <center>Page View:<span id="busuanzi_value_site_pv"></span></center>
-</span>
+<center>
+    <a href="https://info.flagcounter.com/0zH1"><img src="https://s11.flagcounter.com/countxl/0zH1/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_2/viewers_3/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+</center>
 <center>Last Update 2021.05.04</center>

@@ -36,5 +36,5 @@
 
 
 <br><br/><br><br/><br><br/>
-<center><span id="busuanzi_container_site_pv">PV:<span id="busuanzi_value_site_pv"></span></span></center>
+<center><b><span id="busuanzi_container_site_pv">Page View:<span id="busuanzi_value_site_pv"></span></span></b></center>
 <center>Last Update 2021.05.04</center>

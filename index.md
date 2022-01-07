@@ -1,4 +1,4 @@
-# 关于我
+# 关于我 About me
 <img class="profile-picture" src="https://orienttraveller.github.io/sfr3.jpg">
 - [CSDN](https://blog.csdn.net/qq_43270828)
 - [GitHub](https://github.com/OrientTraveller)

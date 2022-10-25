@@ -36,9 +36,7 @@
 
 
 <br><br/><br><br/><br><br/>
-<center>
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<center>Last Update 2021.05.04
 <span id="busuanzi_container_site_pv">总访问量<span id="busuanzi_value_site_pv"></span>次</span></center>
-<br><br/>
-<center>Last Update 2021.05.04</center>
 <br><br/>

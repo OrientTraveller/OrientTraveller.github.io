@@ -19,8 +19,8 @@
 - **华中科技大学优秀共青团团干**、**华中科技大学优秀研究生干部**
 
 # 学术成果
-- 专利  基于像素光栅和计算机视觉的物体表面微尺度测量方法  公布号：CN111006599A
-- 论文  General Adversarial Perturbation Simulating: Protect Unknown System by Detecting Unknown Adversarial Faces  IJCNN2023
+|专利|基于像素光栅和计算机视觉的物体表面微尺度测量方法|公布号：CN111006599A|
+|论文|General Adversarial Perturbation Simulating: Protect Unknown System by Detecting Unknown Adversarial Faces|IJCNN2023|
 
 
 # 项目经历

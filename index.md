@@ -18,6 +18,11 @@
 - 华中科技大学2022年寒假社会实践优秀个人
 - **华中科技大学优秀共青团团干**、**华中科技大学优秀研究生干部**
 
+# 学术成果
+- 专利  基于像素光栅和计算机视觉的物体表面微尺度测量方法  公布号：CN111006599A
+- 论文  General Adversarial Perturbation Simulating: Protect Unknown System by Detecting Unknown Adversarial Faces  IJCNN2023
+
+
 # 项目经历
 #### 1.实验室科研项目-高温金属表面检测
 团队角色：参与者，负责数据处理与预研实验

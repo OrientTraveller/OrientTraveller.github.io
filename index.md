@@ -20,7 +20,7 @@
 
 # 学术成果
 |类别|名称|检索方式|
-| ---- | ---- | ---- |
+|:---:|:---:|:---:|
 |专利|基于像素光栅和计算机视觉的物体表面微尺度测量方法|公布号：CN111006599A|
 |论文|General Adversarial Perturbation Simulating: Protect Unknown System by Detecting Unknown Adversarial Faces（IJCNN2023）|-|
 
